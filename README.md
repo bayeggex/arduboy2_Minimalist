@@ -1,8 +1,8 @@
 ## ⚠️ About This Project & Adaptations
 
-This repository is a heavily customized and optimized fork built upon the original works of [MLXXXp's Arduboy2](https://github.com/MLXXXp/Arduboy2) and [sub1inear's ArduboyI2C](https://github.com/sub1inear/ArduboyI2C). While the core library functionality belongs to the original authors, this specific version represents a complete redesign tailored for custom hardware and maximum performance.
+This repository is a heavily customised and optimised fork built upon the original works of [MLXXXp's Arduboy2](https://github.com/MLXXXp/Arduboy2) and [sub1inear's ArduboyI2C](https://github.com/sub1inear/ArduboyI2C). While the core library functionality belongs to the original authors
 
-I successfully merged these two distinct repositories into a single cohesive library, but I didn't stop there—I engineered and integrated entirely new features, modifications, and structural enhancements on top of them. I stripped away the heavy boot logos, screen animations, and redundant data structures that typically choke the limited memory of ATmega32U4 boards. By re-engineering these internal layers, I successfully freed up a massive chunk of Flash and RAM, leaving maximum headroom for complex custom games and applications. 
+I merged two distinct repositories into a single library, and then I stripped away the heavy boot logos, screen animations, and redundant data structures that typically choke the limited memory of ATmega32U4 boards.I successfully freed up a massive chunk of Flash and RAM, leaving maximum headroom for complex custom games and applications. 
 
 Furthermore, I modified the core pin configurations.
 
