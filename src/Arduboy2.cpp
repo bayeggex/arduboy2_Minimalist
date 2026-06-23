@@ -2,8 +2,9 @@
  * @file Arduboy2.cpp
  * \brief
  * The Arduboy2Base and Arduboy2 classes and support objects and definitions.
- * Writer @BayEggex
+ * 
  * originally from Chris J. Martinez, Kevin Bates, Josh Goebel, Scott Allen, Ross O. Shoger
+ * Modified by: @BayEggex
  */
 
 #include "Arduboy2.h"
