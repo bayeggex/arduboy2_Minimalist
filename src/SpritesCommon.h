@@ -2,8 +2,9 @@
  * @file SpritesCommon.h
  * \brief
  * Common header file for sprite functions.
- * Writer @BayEggex
+ * 
  * originally from Chris J. Martinez, Kevin Bates, Josh Goebel, Scott Allen, Ross O. Shoger
+ * Modified by: @BayEggex
  */
 
 #ifndef SpritesCommon_h

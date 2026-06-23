@@ -2,8 +2,9 @@
  * @file Arduboy2Core.h
  * \brief
  * The Arduboy2Core class for Arduboy hardware initilization and control.
- * Writer @BayEggex
+ * 
  * originally from Chris J. Martinez, Kevin Bates, Josh Goebel, Scott Allen, Ross O. Shoger
+ * Modified by: @BayEggex
  */
 
 #ifndef ARDUBOY2_CORE_H

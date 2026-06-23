@@ -2,8 +2,9 @@
  * @file Arduboy2.h
  * \brief
  * The Arduboy2Base and Arduboy2 classes and support objects and definitions.
- * Writer @BayEggex
+ * 
  * originally from Chris J. Martinez, Kevin Bates, Josh Goebel, Scott Allen, Ross O. Shoger
+ * Modified by: @BayEggex
  */
 
 #ifndef ARDUBOY2_H

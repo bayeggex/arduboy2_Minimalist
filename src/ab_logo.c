@@ -2,8 +2,9 @@
  * @file ab_logo.c
  * \brief
  * The ARDUBOY logo bitmap.
- * Writer @BayEggex
+ * 
  * originally from Chris J. Martinez, Kevin Bates, Josh Goebel, Scott Allen, Ross O. Shoger
+ * Modified by: @BayEggex
  */
 
 #include <avr/pgmspace.h>

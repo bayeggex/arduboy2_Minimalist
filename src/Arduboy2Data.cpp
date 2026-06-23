@@ -2,8 +2,9 @@
  * @file Arduboy2Data.cpp
  * \brief
  * Constant data definintions for the Arduboy2 and Arduboy2Base classes.
- * Writer @BayEggex
+ * 
  * originally from Chris J. Martinez, Kevin Bates, Josh Goebel, Scott Allen, Ross O. Shoger
+ * Modified by: @BayEggex
  */
 
 #include "Arduboy2.h"

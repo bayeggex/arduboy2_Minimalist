@@ -2,8 +2,9 @@
  * @file Sprites.cpp
  * \brief
  * A class for drawing animated sprites from image and mask bitmaps.
- * Writer @BayEggex
+ * 
  * originally from Chris J. Martinez, Kevin Bates, Josh Goebel, Scott Allen, Ross O. Shoger
+ * Modified by: @BayEggex
  */
 
 #include "Sprites.h"

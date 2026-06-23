@@ -2,8 +2,9 @@
  * @file glcdfont.c
  * \brief
  * Optimized font definitions. Extended ASCII removed for memory saving.
- * Writer @BayEggex
+ * 
  * originally from Chris J. Martinez, Kevin Bates, Josh Goebel, Scott Allen, Ross O. Shoger
+ * Modified by: @BayEggex
  */
 
 #include <avr/io.h>
